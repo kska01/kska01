@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Android Studio-3D3C3C?style=flat&logo=Android Studio&logoColor=3DDC84"/></a>&nbsp
+<img src="https://img.shields.io/badge/Android Studio-3D3C3C?style=flat&logo=Android Studio&logoColor=3DDC84"/>
+
+
 <!--
 **kska01/kska01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
