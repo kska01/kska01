@@ -7,8 +7,7 @@
 <img src="https://img.shields.io/badge/GitHub-3D3C3C?style=flat&logo=GitHub&logoColor=181717"/></a>
 <img src="https://img.shields.io/badge/Firebase-3D3C3C?style=flat&logo=Firebase&logoColor=FFCA28"/></a>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kska01)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kska01&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
