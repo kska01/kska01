@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/GitHub-3D3C3C?style=flat&logo=GitHub&logoColor=181717"/></a>
 <img src="https://img.shields.io/badge/Firebase-3D3C3C?style=flat&logo=Firebase&logoColor=FFCA28"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats-theta-one-13.vercel.app/api?username=kska01&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)
+![Anurag's GitHub stats](https://github-readme-stats-s8tm-2our5w0r8-kska01s-projects.vercel.app/api?username=kska01&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)
 
 <!--
 **kska01/kska01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
