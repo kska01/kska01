@@ -2,6 +2,7 @@
 
 <img src="https://img.shields.io/badge/Android Studio-3D3C3C?style=flat&logo=Android Studio&logoColor=3DDC84"/></a>
 <img src="https://img.shields.io/badge/Kotlin-3D3C3C?style=flat&logo=Kotlin&logoColor=7F52FF"/></a>
+<img src="https://img.shields.io/badge/Java-3D3C3C?style=flat&logo=Java&logoColor=black"/>
 <img src="https://img.shields.io/badge/Jetpack Compose-3D3C3C?style=flat&logo=Jetpack Compose&logoColor=4285F4"/></a>
 <img src="https://img.shields.io/badge/Firebase-3D3C3C?style=flat&logo=Firebase&logoColor=FFCA28"/></a>
 
