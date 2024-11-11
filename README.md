@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Android-3D3C3C?style=flat&logo=Android&logoColor=#34A853"/></a>
 <img src="https://img.shields.io/badge/Android Studio-3D3C3C?style=flat&logo=Android Studio&logoColor=3DDC84"/></a>
 <img src="https://img.shields.io/badge/Kotlin-3D3C3C?style=flat&logo=Kotlin&logoColor=7F52FF"/></a>
 <img src="https://img.shields.io/badge/Java-3D3C3C?style=flat&logo=Java&logoColor=black"/>
